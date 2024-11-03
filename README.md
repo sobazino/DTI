@@ -16,5 +16,7 @@ Identifying the interactions between drugs and target proteins is a key step in 
 <p align="center"><img src="Image/DTI.JPG" alt="DTI"></p>
 </br>
 <p align="center"><img src="Image/DTI1.JPG" alt="DTI"></p>
+</br>
+<p align="center"><img src="Image/DTI2.JPG" alt="DTI"></p>
 
 </br>
